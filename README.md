@@ -28,7 +28,7 @@ You can try out the app here:
 To run this app locally:
 
 ```bash
-git clone https://github.com/bitsbuild/flutter-to-do-app.git
+git clone https://github.com/bitsbuild/flutter-to-do.git
 cd flutter-to-do-app
 flutter pub get
 flutter run
